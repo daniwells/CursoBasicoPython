@@ -1,0 +1,12 @@
+{
+    "name":"Daniel",
+    "team":"drivers",
+    "alive":"True",
+    "energy":"85",
+    "backpack":["knife","sniper","rope"],
+    "cars":[
+        {"type":"transport", "ability":"65"},
+        {"type":"atack", "ability":"70"},
+        {"type":"race", "ability":"100"}
+    ]
+}
